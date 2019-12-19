@@ -1,1 +1,1 @@
-# cursofrontendplatzi
+Desenvolvimento do curso de Frontend (Facebook Developer Circles)
